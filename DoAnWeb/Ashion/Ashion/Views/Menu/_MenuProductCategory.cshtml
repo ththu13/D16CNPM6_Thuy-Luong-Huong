@@ -1,0 +1,66 @@
+﻿@model IEnumerable<Ashion.Models.EF.ProductCategory>
+
+@if (Model != null && Model.Any())
+{
+    <!-- Categories Section Begin -->
+    <section class="categories">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-6 p-0">
+                    <div class="categories__item categories__large__item set-bg"
+                         data-setbg="@Url.Content("~/Content/assets/img/categories/category-12.png")">
+                        <div class="categories__text">
+                            <h1 style="font-family: sans-serif; font-size:50px;">Trang điểm</h1>
+                            <p>
+                                Chúng tôi tự hào là Đại Lý Phân Phối Chính Thức của hơn 100 Thương Hiệu Mỹ Phẩm
+                            </p>
+                            <a href="#">Mua ngay</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <div class="categories__item set-bg" data-setbg="@Url.Content("~/Content/assets/img/categories/category-15.png")">
+                                <div class="categories__text">
+                                    <h4>Nước hoa</h4>
+                                    <p>358 sản phẩm</p>
+                                    <a href="#">Mua ngay</a>
+                                </div>
+                            </div>
+                            
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <div class="categories__item set-bg" data-setbg="@Url.Content("~/Content/assets/img/categories/category-9.png")">
+                                <div class="categories__text">
+                                    <h4>Chăm sóc da</h4>
+                                    <p>273 sản phẩm</p>
+                                    <a href="#">Mua ngay</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <div class="categories__item set-bg" data-setbg="@Url.Content("~/Content/assets/img/categories/category-14.png")">
+                                <div class="categories__text">
+                                    <h4>Chăm sóc tóc</h4>
+                                    <p>159 sản phẩm</p>
+                                    <a href="#">Mua ngay</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-6 p-0">
+                            <div class="categories__item set-bg" data-setbg="@Url.Content("~/Content/assets/img/categories/category-15.jpg")">
+                                <div class="categories__text">
+                                    <h4>Dành cho nam</h4>
+                                    <p>792 sản phẩm</p>
+                                    <a href="#">Mua ngay</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Categories Section End -->
+}

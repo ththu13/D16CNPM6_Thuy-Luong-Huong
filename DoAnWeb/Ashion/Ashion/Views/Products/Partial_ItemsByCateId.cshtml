@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Ashion.Models.EF.Product>
+@if (Model != null && Model.Any())
+{
+    foreach (var item in Model)
+    {
+        var strImge = "";
+        var img = item.ProductImage.FirstOrDefault(x => x.IsDefault);
+        if (img != null)
+        {
+            strImge = img.Image;
+        }
+        <div class="col-lg-3 col-md-4 col-sm-6 mix @item.ProductCategory.Alias">
+            <div class="product__item">
+                <div class="product__item__pic">
+                    <img src="@strImge" alt="@item.Title" />
+                    <div class="label new">New</div>
+                    <ul class="product__hover">
+                        <li><a href="img/product/product-1.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                        <li><a href="#"><span class="icon_heart_alt"></span></a></li>
+                        <li><a href="#" class="btnAddToCart" data-id="@item.Id"><span class="icon_bag_alt"></span></a></li>
+                    </ul>
+                </div>
+                <div class="product__item__text">
+                    <h6><a href="/chi-tiet/@item.Alias-p@(item.Id)">@item.Title</a></h6>
+                    <div class="rating">
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                        <i class="fa fa-star"></i>
+                    </div>
+                    @if (item.PriceSale > 0)
+                    {
+                        <div class="product__price">@Ashion.Common.Common.FormatNumber(item.PriceSale, 0)<span>>@Ashion.Common.Common.FormatNumber(item.Price, 0)</span></div>
+
+                    }
+                    else
+                    {
+                        <div class="product__price">@Ashion.Common.Common.FormatNumber(item.Price, 0)</div>
+                    }
+
+                </div>
+            </div>
+        </div>
+    }
+}

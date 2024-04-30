@@ -1,0 +1,1151 @@
+D:\Documents\.NET\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\.NET\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\.NET\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\.NET\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\.NET\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\.NET\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\.NET\Ashion\Ashion\bin\Owin.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\.NET\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\.NET\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\.NET\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\.NET\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\.NET\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\.NET\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\.NET\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\.NET\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Ashion\Ashion\bin\Ashion.dll.config
+D:\Ashion\Ashion\bin\Ashion.dll
+D:\Ashion\Ashion\bin\Ashion.pdb
+D:\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Ashion\Ashion\bin\CKFinder.dll
+D:\Ashion\Ashion\bin\EntityFramework.dll
+D:\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Ashion\Ashion\bin\Owin.dll
+D:\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Ashion\Ashion\bin\WebGrease.dll
+D:\Ashion\Ashion\bin\CKFinder.pdb
+D:\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Ashion\Ashion\bin\EntityFramework.xml
+D:\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Ashion\Ashion\bin\PagedList.dll
+D:\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Ashion\Ashion\bin\PagedList.xml
+D:\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\Ashion\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\Ashion\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\Owin.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\PagedList.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\Ashion\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\Ashion\Ashion\Ashion\bin\PagedList.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\Ashion\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Documents\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Ashion.dll.config
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Ashion.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Ashion.pdb
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\CKFinder.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Owin.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\PagedList.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\WebGrease.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\CKFinder.pdb
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\PagedList.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Web nâng cao\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Owin.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\PagedList.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\PagedList.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\.NET\Ashion\Ashion\Ashion\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Owin.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\PagedList.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\PagedList.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\.NET\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\Đồ án web\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Owin.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\PagedList.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\Đồ án web\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\Đồ án web\Ashion\Ashion\bin\PagedList.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\Đồ án web\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\Đồ án web\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.updateOrdercs.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.updateOrder.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateModelView.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.StatusUpdate.resources
+D:\Documents\Đồ án web\Ashion\Ashion\obj\Debug\Ashion.Migrations.migration.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.dll.config
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.pdb
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.exe
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.exe
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\CKFinder.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Owin.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\WebGrease.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\CKFinder.pdb
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.DatabaseNew.resources
+D:\đồ án web\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.newdb.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.dll.config
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Ashion.pdb
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.exe
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.exe.config
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csc.rsp
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.exe
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.exe.config
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\csi.rsp
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.AppContext.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Collections.Immutable.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Console.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Globalization.Calendars.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.Compression.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Net.Http.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Net.Sockets.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.ValueTuple.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XPath.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.exe
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.exe.config
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\vbc.rsp
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\roslyn\VBCSCompiler.exe.config
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Antlr3.Runtime.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\CKFinder.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.SqlServer.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Newtonsoft.Json.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Owin.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.Mvc.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Helpers.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Mvc.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Optimization.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Razor.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Razor.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\WebGrease.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\CKFinder.pdb
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\PagedList.Mvc.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Helpers.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Mvc.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Optimization.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.Razor.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\System.Web.WebPages.Razor.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Newtonsoft.Json.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Antlr3.Runtime.pdb
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\EntityFramework.SqlServer.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Google.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.AssemblyReference.cache
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.CreatedDatabase.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateCategory.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateData.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateNews.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePost.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProductCategory.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateProducts.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update1206.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.editProduct.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update12061.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.editeProduct.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdatePayment.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateEmail.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.UpdateOriginalPrice.resources
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.GenerateResource.cache
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.CoreCompileInputs.cache
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.csproj.CopyComplete
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.dll
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.pdb
+D:\Documents\DoAnWeb\DoAnWeb\DoAnWeb\Ashion\Ashion\obj\Debug\Ashion.Migrations.Update_DatabaseStatus.resources
